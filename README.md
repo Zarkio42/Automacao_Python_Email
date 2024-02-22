@@ -2,7 +2,7 @@
 Surgindo a necessidade de tratar emails que compõem a base de dados de automações de email que minha empresa utiliza, a fim de evitar banimentos ou bloqueios, criei esse código em python para facilitar o processo!
 
 <p align="center">
-  <img src="https://i.imgur.com/h5Y8qZO.png" width="200"/>
+  <img src="[https://i.imgur.com/h5Y8qZO.png](https://t3.ftcdn.net/jpg/05/05/86/58/360_F_505865847_HAJ4BtMDxVYTKlveu5BDyljAym3ODnO8.jpg)" width="200"/>
 </p>
 
 ### Introdução:

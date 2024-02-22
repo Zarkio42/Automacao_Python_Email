@@ -19,7 +19,7 @@ Caso você faça alguma alteração no código, o executável só estará levand
 
 ### Utilize o seguinte código no cmd, dentro de sua pasta com o script.py:
 
-*pyinstaller --onefile --name meu_programa seu_script.py*
+*`pyinstaller --onefile --name meu_programa seu_script.py`*
 
 Assim ele pode ser executado sem necessidade do Python instalado.
 

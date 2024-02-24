@@ -9,6 +9,7 @@ Surgindo a necessidade de tratar emails que compõem a base de dados de automaç
 Essa automação usa a biblioteca do pandas para manipulação de dados em arquivos csv e xlsx.
 
 Instale usando  o pip: *`pip install pandas`*
+Instale também a dependencia openpyxl: *`pip install openpyxl`*
 
 A ideia dessa automação é ler um arquivo excel de sua escolha, realizar algumas operações com os dados de detreminada coluna ou colunas (por exemplo, remover linhas que contém emails que possivelmente não existem), e depois atualizar essa planilha com as alterações necessárias.
 
